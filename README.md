@@ -1,4 +1,4 @@
-# QEmbedding
+# Neural Quantum Embedding
 
 This is a code for [Neural Quantum Embedding: Pushing the Limits of Quantum Supervised Learning](https://arxiv.org/pdf/2311.11412).
 

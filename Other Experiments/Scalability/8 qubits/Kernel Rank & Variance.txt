@@ -1,0 +1,60 @@
+Kernel0 iter 0
+Kernel Rank: 1000
+Kernel Variance: 0.0009153918274221285
+
+Kernel2 iter 0
+Kernel Rank: 895
+Kernel Variance: 0.1856808242989811
+
+Kernel2 iter 0
+Kernel Rank: 1000
+Kernel Variance: 0.14617144190793305
+
+Kernel0 iter 1
+Kernel Rank: 1000
+Kernel Variance: 0.0006958928712654695
+
+Kernel2 iter 1
+Kernel Rank: 914
+Kernel Variance: 0.18107375304888448
+
+Kernel2 iter 1
+Kernel Rank: 1000
+Kernel Variance: 0.14014941969288583
+
+Kernel0 iter 2
+Kernel Rank: 1000
+Kernel Variance: 0.0007072757303437999
+
+Kernel2 iter 2
+Kernel Rank: 909
+Kernel Variance: 0.17895462488893604
+
+Kernel2 iter 2
+Kernel Rank: 1000
+Kernel Variance: 0.1396640703467334
+
+Kernel0 iter 3
+Kernel Rank: 1000
+Kernel Variance: 0.0006785826869208034
+
+Kernel2 iter 3
+Kernel Rank: 920
+Kernel Variance: 0.18077810468385555
+
+Kernel2 iter 3
+Kernel Rank: 1000
+Kernel Variance: 0.1364337669504927
+
+
+Kernel0 iter 4
+Kernel Rank: 1000
+Kernel Variance: 0.0006301272771971951
+
+Kernel2 iter 4
+Kernel Rank: 930
+Kernel Variance: 0.18135337383891176
+
+Kernel2 iter 4
+Kernel Rank: 1000
+Kernel Variance: 0.1401344370625499

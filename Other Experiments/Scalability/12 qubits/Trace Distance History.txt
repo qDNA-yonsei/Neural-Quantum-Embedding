@@ -1,0 +1,4 @@
+Without NQE Train Data: 
+tensor(0.4919)
+Without NQE Test Data: 
+tensor(0.6863)
